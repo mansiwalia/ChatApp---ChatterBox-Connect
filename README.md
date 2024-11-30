@@ -11,9 +11,8 @@ You can watch a demo of this project on my [LinkedIn profile](https://www.linked
 3. [Project Structure](#project-structure)
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
-6. [Deployed Links](#deployed-links)
-7. [Contributing](#contributing)
-8. [License](#license)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Features
 
