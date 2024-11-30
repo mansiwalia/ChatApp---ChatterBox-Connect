@@ -32,7 +32,7 @@ You can watch a demo of this project on my [LinkedIn profile](https://www.linked
 
 ## Technologies Used
 
-The project is built using the **PHP** with the following key technologies:
+The project is built using the **PHP,MYSQL,AJAX** with the following key technologies:
 
 - **Frontend:**: HTML, CSS, JavaScript
 - **Backend**: PHP
