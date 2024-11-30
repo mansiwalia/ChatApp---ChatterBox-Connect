@@ -2,6 +2,9 @@
 
 **ChatterBox Connect** A real-time chat application designed for seamless communication, featuring secure user authentication, dynamic user interaction, and an intuitive interface.
 
+## Demo Link Of Project
+You can watch a demo of this project on my [LinkedIn profile](https://www.linkedin.com/feed/update/urn:li:activity:7237048455922085888/).
+
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
